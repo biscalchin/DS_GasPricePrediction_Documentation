@@ -1,7 +1,7 @@
-analysis module
+designer module
 ===============
 
-.. automodule:: analysis
+.. automodule:: designer
    :members:
    :undoc-members:
    :show-inheritance:
